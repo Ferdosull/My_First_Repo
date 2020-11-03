@@ -22,6 +22,10 @@ body {
     border-color: #eec802; 
 }
 
+.blockquote {
+    margin-bottom: 50px;
+}
+
 .callout-container {
     height: 100vh;
     background: url(../images/whiskey-background.jpg) no-repeat bottom right fixed; 
@@ -172,7 +176,6 @@ body {
 
 .features {
     text-align: center;
-    margin-bottom: 40px;
 }
 
 .features i {
@@ -188,6 +191,7 @@ body {
     min-width: 100px;
     font-weight: bold;
     margin-top: 10px;
+    margin-bottom: 20px;
     color: #f05f40;
 }
 
@@ -198,4 +202,29 @@ body {
     background-color: #959595;
     border-color: #959595;
     color: white;
+}
+
+.table--format {
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+footer{
+    height: 150px;
+}
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks li {
+    display:inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
 }
