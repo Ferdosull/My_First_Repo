@@ -228,3 +228,7 @@ footer{
     padding: 5%;
     color: #777777;
 }
+
+.text-uppercase {
+    text-align: center;
+}
