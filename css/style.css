@@ -190,3 +190,12 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+.features .btn--white:hover,
+.features .btn--white:active,
+.features .btn--white:focus,
+.features .btn--white:active:focus {
+    background-color: #959595;
+    border-color: #959595;
+    color: white;
+}
